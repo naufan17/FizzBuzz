@@ -26,7 +26,7 @@ function cekFizzBuzz(){
     text.innerText = result;
     document.body.appendChild(text);
 
-    console.log(result);
+    console.log(number);
     // console.log(click);
     click += 1;
 }
